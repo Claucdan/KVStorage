@@ -1,0 +1,62 @@
+# CMake build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake*/
+*build*/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+
+# User-specific files
+*.user
+*.suo
+*.vcxproj.user
+*.sln.docstates
+CMakeLists.txt.user
+
+# IDE specific files
+.idea/
+*.vcxproj
+*.filters
+*.ipr
+*.iws
+*.vs/
+*.vscode/
+*.code-workspace
+
+# Executables
+*.exe
+*.out
+
+# Libraries
+*.lib
+*.dll
+*.so
+*.dylib
+*.a
+
+# Object files
+*.o
+*.obj
+*.elf
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+*.map
+
+# Other generated files
+*.stackdump
+*.cmake
+*.log
+*.swp
+*.swo
+*.gcda
+*.gcno
+*.profdata
+*.tag
+*.tags
