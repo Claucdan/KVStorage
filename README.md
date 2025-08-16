@@ -1,4 +1,4 @@
-# MetricStreamLib
+# KVStorage
 
 <div align="center">
     <img src="img/logo.png" width=40%>
